@@ -4,13 +4,13 @@
   "description": "",
   "main": "server.js",
   "engines": {
-    "node": "18.x"
+    "npm": ">=10.8.1"
   },
   "scripts": {
     "dev": "nodemon server.js",
     "start": "node server.js"
   },
-  "author": "shahriar Sajeeb",
+  "author": "Jeetu Soni",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
